@@ -34,7 +34,7 @@
     <img src="https://github.com/mikelm2020/video-streaming/blob/961be498851fc7b1e9d940550e7eb54ea3b2130f/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Serverless projects with Amazon EventBridge</h3>
+  <h3 align="center">Serverless project with Amazon EventBridge</h3>
 
   <p align="center">
     A simple microservice application using AWS SAM, that uses AWS EventBridge as at messaging between microservices.
@@ -118,7 +118,7 @@ sam delete
 ## Contact
 
 Miguel Angel López Monroy - 
-[![linkedin-shield][linkedin-shield]][linkedin-url]
+[![linkedin][linkedin]][linkedin-url]
 [![Gmail-shield][Gmail-shield]][Gmail-url]
 [![Twitter-shield][Twitter-shield]][Twitter-url]
 
