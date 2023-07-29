@@ -1,0 +1,30 @@
+{
+    "serverlessConsole.services": [
+        {
+            "type": "cloudformation",
+            "title": "eventbridge",
+            "timeOffsetInMs": 0,
+            "awsProfile": "default",
+            "stacks": [
+                {
+                    "region": "us-east-1",
+                    "stackName": "pizzaHat",
+                    "stage": "dev"
+                }
+            ]
+        },
+        {
+            "type": "cloudformation",
+            "title": "thailand",
+            "timeOffsetInMs": 0,
+            "awsProfile": "default",
+            "stacks": [
+                {
+                    "region": "us-east-1",
+                    "stackName": "thailand",
+                    "stage": "dev"
+                }
+            ]
+        }
+    ]
+}

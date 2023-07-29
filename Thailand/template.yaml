@@ -1,0 +1,21 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Resources:
+  ThaiLandFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      Handler: handler.thailand
+      Runtime: python3.9
+      CodeUri: .
+      Events:
+        Trigger:
+          Type: CloudWatchEvent
+          Properties:
+            Pattern:
+              source:
+                - custom.orderManager
+              detail-type:
+                - order
+              detail:
+                restaurantName:
+                  - thailand
