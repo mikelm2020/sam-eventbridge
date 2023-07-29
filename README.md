@@ -153,12 +153,13 @@ My favorite resources used:
 [issues-url]: https://github.com/mikelm2020/sam-eventbridge/issues
 [license-shield]: https://img.shields.io/github/license/mikelm2020/sam-eventbridge.svg?style=for-the-badge
 [license-url]: https://github.com/mikelm2020/sam-eventbridge/blob/master/LICENSE.txt
-
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+
+[linkedin]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/miguellopezmdev
-[Gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[Gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white
 [Gmail-url]: mailto:miguel.lopezm.dev@gmail.com
-[Twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
+[Twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white
 [Twitter-url]: https://twitter.com/miguellopezmdev
 
 <!--[product-screenshot]: https://github.com/mikelm2020/video-streaming/blob/82a8c694a418723faacf992c5dd76b6e328120f8/api_playlists.png -->
