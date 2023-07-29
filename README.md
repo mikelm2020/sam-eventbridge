@@ -37,7 +37,7 @@
   <h3 align="center">Serverless project with Amazon EventBridge</h3>
 
   <p align="center">
-    A simple microservice application using AWS SAM, that uses AWS EventBridge as at messaging between microservices.
+    A simple microservice application using AWS SAM, that uses Amazon EventBridge as at messaging between microservices.
   </p>
 </div>
 
@@ -109,6 +109,8 @@ sam delete
 * Amazon EventBridge
 * Amazon API Gateway
 * AWS Lambda
+* AWS SAM
+* AWS SDK Python
 
 
 
@@ -133,7 +135,7 @@ My favorite resources used:
 
 * [Python Documentation](https://docs.python.org/3.9/)
 * [Blog Marcia Villalba](https://blog.marcia.dev/event-driven-applications)
-
+* [AWS Documentation](https://docs.aws.amazon.com/es_es/index.html)
 
 
 
