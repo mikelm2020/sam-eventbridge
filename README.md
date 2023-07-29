@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mikelm2020/aws_projects">
+  <a href="https://github.com/mikelm2020/sam-eventbridge">
     <img src="https://github.com/mikelm2020/video-streaming/blob/961be498851fc7b1e9d940550e7eb54ea3b2130f/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -105,6 +105,11 @@ sam delete
 * [![AWS][AWS]][AWS-url]
 * [![Visual Studio Code][Visual Studio Code]][Visual Studio Code-url]
 
+## AWS Services
+* Amazon EventBridge
+* Amazon API Gateway
+* AWS Lambda
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -112,7 +117,10 @@ sam delete
 <!-- CONTACT -->
 ## Contact
 
-Miguel Angel López Monroy - [@miguellopezmdev](https://twitter.com/miguellopezmdev) - miguel.lopezm.dev@gmail.com
+Miguel Angel López Monroy - 
+[![linkedin-shield][linkedin-shield]][linkedin-url]
+[![Gmail-shield][Gmail-shield]][Gmail-url]
+[![Twitter-shield][Twitter-shield]][Twitter-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -135,18 +143,24 @@ My favorite resources used:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/mikelm2020/aws_projects.svg?style=for-the-badge
-[contributors-url]: https://github.com/mikelm2020/aws_projects/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/mikelm2020/aws_projects.svg?style=for-the-badge
-[forks-url]: https://github.com/mikelm2020/aws_projects/network/members
-[stars-shield]: https://img.shields.io/github/stars/mikelm2020/aws_projects.svg?style=for-the-badge
-[stars-url]: https://github.com/mikelm2020/aws_projects/stargazers
-[issues-shield]: https://img.shields.io/github/issues/mikelm2020/aws_projects.svg?style=for-the-badge
-[issues-url]: https://github.com/mikelm2020/aws_projects/issues
-[license-shield]: https://img.shields.io/github/license/mikelm2020/aws_projects.svg?style=for-the-badge
-[license-url]: https://github.com/mikelm2020/aws_projects/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/mikelm2020/sam-eventbridge.svg?style=for-the-badge
+[contributors-url]: https://github.com/mikelm2020/sam-eventbridge/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/mikelm2020/sam-eventbridge.svg?style=for-the-badge
+[forks-url]: https://github.com/mikelm2020/sam-eventbridge/network/members
+[stars-shield]: https://img.shields.io/github/stars/mikelm2020/sam-eventbridge.svg?style=for-the-badge
+[stars-url]: https://github.com/mikelm2020/sam-eventbridge/stargazers
+[issues-shield]: https://img.shields.io/github/issues/mikelm2020/sam-eventbridge.svg?style=for-the-badge
+[issues-url]: https://github.com/mikelm2020/sam-eventbridge/issues
+[license-shield]: https://img.shields.io/github/license/mikelm2020/sam-eventbridge.svg?style=for-the-badge
+[license-url]: https://github.com/mikelm2020/sam-eventbridge/blob/master/LICENSE.txt
+
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/miguellopezmdev
+[Gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[Gmail-url]: mailto:miguel.lopezm.dev@gmail.com
+[Twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white
+[Twitter-url]: https://twitter.com/miguellopezmdev
+
 <!--[product-screenshot]: https://github.com/mikelm2020/video-streaming/blob/82a8c694a418723faacf992c5dd76b6e328120f8/api_playlists.png -->
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [Python-url]: https://www.python.org/
