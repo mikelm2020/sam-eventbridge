@@ -1,0 +1,9 @@
+version = 0.1
+[default.deploy.parameters]
+stack_name = "sam-eventbridge-bluedragon"
+resolve_s3 = true
+s3_prefix = "sam-eventbridge-bluedragon"
+region = "us-east-1"
+capabilities = "CAPABILITY_IAM"
+parameter_overrides = "BlueDragonURL=\"https://webhook.site/298ecc4a-bdd8-4cba-ba3c-5ede1491de5f\""
+image_repositories = []

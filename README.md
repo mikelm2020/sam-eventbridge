@@ -69,11 +69,15 @@ This project has a simple application where you can send food orders to differen
 
 ![Basic Arquitecture](./diagrams/basic-arquitecture.png)
 
+![API Destination Arquitecture](./diagrams/api-destinations-arq.png)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Deploy the project
 
 You will need to deploy each microservice individually - orderManager, pizzaHat and Thailand.
+
+Also the microservice blueDragon for show API Destinations with the site https://webhook.site/
 
 We will be using AWS SAM and make sure you are running the latest version - at the time of writing, this was 1.78.0 (sam --version).
 
