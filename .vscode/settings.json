@@ -25,6 +25,19 @@
                     "stage": "dev"
                 }
             ]
+        },
+        {
+            "type": "cloudformation",
+            "title": "bluedragondlq",
+            "timeOffsetInMs": 0,
+            "awsProfile": "default",
+            "stacks": [
+                {
+                    "region": "us-east-1",
+                    "stackName": "sam-eventbridge-bluedragon",
+                    "stage": "dev"
+                }
+            ]
         }
     ]
 }

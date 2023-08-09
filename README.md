@@ -64,12 +64,15 @@
 ## About The Project
 
 This project has a simple application where you can send food orders to different restaurants based on an API Request. And using EventBridge each restaurant will recieve the right order. You can extend this just by adding more restaurants microservice. Each restaurant is in control of their EventBridge rule, in this way we keep the whole application very decoupled.
+Also is used a microservice for send food orders to API Destination and control when events can't delivery, through a DLQ Dead Letter Queue for process the message later saving to DynamoDB Table.
 
 ## Architecture
 
 ![Basic Arquitecture](./diagrams/basic-arquitecture.png)
 
 ![API Destination Arquitecture](./diagrams/api-destinations-arq.png)
+
+![DLQ Arquitecture](./diagrams/dlq-arquitecture.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -115,6 +118,9 @@ sam delete
 * AWS Lambda
 * AWS SAM
 * AWS SDK Python
+* Amazon SQS
+* Amazon DynamoDB
+* Amazon CloudWatch
 
 
 
